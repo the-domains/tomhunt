@@ -2,6 +2,7 @@ name: tomhunt
 favicon: null
 layout_spectrum: 0.3848073261324316
 typography_spectrum: 0.9051211813930422
+title: Tom Hunt Art
 cta:
   domain: null
   bucket: null
