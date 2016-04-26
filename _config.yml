@@ -1,7 +1,7 @@
 name: tomhunt
 favicon: null
-layout_spectrum: 0.3848073261324316
-typography_spectrum: 0.9051211813930422
+layout_spectrum: 0.29175
+typography_spectrum: 0.60733
 title: Tom Hunt Art
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.4347726295236498
+  brandStrength: 0.4375
   lightness: 0.1282619454432279
-  saturation: 0.4693270653951913
+  saturation: 0.875
   rhythmicContrast: 0.7770797447301447
 purpose: []
