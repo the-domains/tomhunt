@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Instagram
+    url: 'https://www.instagram.com/tomhuntcouk/'
+    type: external
 favicon: null
 title: ''
 purpose: []
